@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 B.E. in **Information Technology** — JSPM's RSCOE, Pune (2026)
+- 🎓 B.E. in **Information Technology** — JSPM's RSCOE, Pune (2027)
 - 💻 Building full-stack web apps with the **MERN stack** and modern tooling
 - 🤖 Exploring **AI/ML** — co-authoring a research paper on Intelligent Surveillance Systems
 - 🎯 Actively preparing for **campus placements**
